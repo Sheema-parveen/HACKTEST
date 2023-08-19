@@ -1,0 +1,4 @@
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\HACKTEST1\Reports\login_report.html test_login.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\HACKTEST1\Reports\appointment_report.html test_appointment.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\HACKTEST1\Reports\menuhome_report.html test_menuhome.py
+pytest -v -s --capture=sys --html=C:\Users\USER\Desktop\workspace\HACKTEST1\Reports\menuhistory_report.html test_menuhistory.py
